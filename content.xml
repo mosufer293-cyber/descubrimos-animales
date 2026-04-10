@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260408115055UOVASX</value>
+    <value>20260410080802BSJ117</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>202604081150552GEQBI</value>
+    <value>20260410080802Q4KU9U</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -60,7 +60,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1775643780996</value>
+    <value>1775804333623</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -93,7 +93,7 @@
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>e5fed70b-c2a7-4197-823d-42bd09aa6ac2</odePageId>
+  <odePageId>page-mnsk1t7a-xgoqftfl2</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Página nueva</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
@@ -102,12 +102,36 @@
       <key>titlePage</key>
       <value>Página nueva</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1775643854526-dji783r7x</odePageId>
+  <odePageId>page-mnsk1t7b-h10u6x821</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>1. Portada  </pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
@@ -116,10 +140,34 @@
       <key>titlePage</key>
       <value>1. Portada  </value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Portada  </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1775643854526-dji783r7x</odePageId>
+      <odePageId>page-mnsk1t7b-h10u6x821</odePageId>
       <odeBlockId>block-1775644062471-9526mhepz</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -148,7 +196,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1775643854526-dji783r7x</odePageId>
+          <odePageId>page-mnsk1t7b-h10u6x821</odePageId>
           <odeBlockId>block-1775644062471-9526mhepz</odeBlockId>
           <odeIdeviceId>idevice-1775644062465-eid9qa09g</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -158,6 +206,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1775644062465-eid9qa09g","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Descubrimos el mundo de los animales<br />Situación de Aprendizaje – 1º Primaria<br />Miriam Osuna Fernández</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -165,7 +225,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1775643867415-6zbwqmben</odePageId>
+  <odePageId>page-mnsk1t7e-jh26cp8pl</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>2. Presentación</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
@@ -174,10 +234,34 @@
       <key>titlePage</key>
       <value>2. Presentación</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Presentación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1775643867415-6zbwqmben</odePageId>
+      <odePageId>page-mnsk1t7e-jh26cp8pl</odePageId>
       <odeBlockId>block-1775644189775-u0vd82uuf</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -206,7 +290,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1775643867415-6zbwqmben</odePageId>
+          <odePageId>page-mnsk1t7e-jh26cp8pl</odePageId>
           <odeBlockId>block-1775644189775-u0vd82uuf</odeBlockId>
           <odeIdeviceId>idevice-1775644189772-2u3t23yu5</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -217,6 +301,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1775644189772-2u3t23yu5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Esta situación de aprendizaje tiene como objetivo que el alumnado conozca y clasifique diferentes animales, desarrollando habilidades de observación, clasificación y trabajo en grupo.</p>\n<p style=\"text-align: justify;\">Está dirigida a alumnado de 1º de Educación Primaria dentro del área de Conocimiento del Medio. Se llevará a cabo a lo largo de varias sesiones en las que se combinarán actividades manipulativas y digitales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -224,7 +320,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1775643931865-v89wotro4</odePageId>
+  <odePageId>page-mnsk1t7f-g3fjg62hh</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>3. Producto final</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
@@ -233,10 +329,34 @@
       <key>titlePage</key>
       <value>3. Producto final</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1775643931865-v89wotro4</odePageId>
+      <odePageId>page-mnsk1t7f-g3fjg62hh</odePageId>
       <odeBlockId>block-1775644226065-08ctu9cb8</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -265,7 +385,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1775643931865-v89wotro4</odePageId>
+          <odePageId>page-mnsk1t7f-g3fjg62hh</odePageId>
           <odeBlockId>block-1775644226065-08ctu9cb8</odeBlockId>
           <odeIdeviceId>idevice-1775644226063-xfearz0eo</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -276,6 +396,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1775644226063-xfearz0eo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">El alumnado elaborará en pequeños grupos un mural o presentación digital en la que clasificarán diferentes animales según sus características.</p>\n<p style=\"text-align: justify;\">Posteriormente, presentarán su trabajo al resto de la clase.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -283,7 +415,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1775643943310-5qy6v64pj</odePageId>
+  <odePageId>page-mnsk1t7g-et6uhbwmo</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>4. Actividades</pageName>
   <odeNavStructureOrder>4</odeNavStructureOrder>
@@ -292,10 +424,34 @@
       <key>titlePage</key>
       <value>4. Actividades</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1775643943310-5qy6v64pj</odePageId>
+      <odePageId>page-mnsk1t7g-et6uhbwmo</odePageId>
       <odeBlockId>block-1775644259924-zgmq5ambm</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -324,7 +480,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1775643943310-5qy6v64pj</odePageId>
+          <odePageId>page-mnsk1t7g-et6uhbwmo</odePageId>
           <odeBlockId>block-1775644259924-zgmq5ambm</odeBlockId>
           <odeIdeviceId>idevice-1775644259922-n7en8tklm</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -335,6 +491,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1775644259922-n7en8tklm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">A continuación se presenta la organización temporal de las actividades del proyecto, donde se recogen las diferentes sesiones, tareas, agrupamientos y recursos utilizados.</p>\n<p><img src=\"{{context_path}}/content/resources/LINEA TEMPORAL MIRIAM OSUNA.png\" width=\"875\" height=\"492\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -342,7 +510,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1775643956046-ukdlkm52a</odePageId>
+  <odePageId>page-mnsk1t7h-7dbkgvglk</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>5. Recursos alumnado</pageName>
   <odeNavStructureOrder>5</odeNavStructureOrder>
@@ -351,10 +519,34 @@
       <key>titlePage</key>
       <value>5. Recursos alumnado</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Recursos alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1775643956046-ukdlkm52a</odePageId>
+      <odePageId>page-mnsk1t7h-7dbkgvglk</odePageId>
       <odeBlockId>block-1775644300264-4qapria5d</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -383,7 +575,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1775643956046-ukdlkm52a</odePageId>
+          <odePageId>page-mnsk1t7h-7dbkgvglk</odePageId>
           <odeBlockId>block-1775644300264-4qapria5d</odeBlockId>
           <odeIdeviceId>idevice-1775644300262-1qzqj4vnv</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -394,6 +586,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1775644300262-1qzqj4vnv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Aquí encontrarás los recursos necesarios para realizar el proyecto:</p>\n<p><a href=\"https://padlet.com/miriamosunaf/recursos-para-aprender-sobre-los-animales-yosznpw6laeyyl0i\" title=\"\">https://padlet.com/miriamosunaf/recursos-para-aprender-sobre-los-animales-yosznpw6laeyyl0i</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -401,7 +605,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1775643965943-ysltao3uq</odePageId>
+  <odePageId>page-mnsk1t7h-5hf8cmgma</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>6. Recursos docentes</pageName>
   <odeNavStructureOrder>6</odeNavStructureOrder>
@@ -410,10 +614,34 @@
       <key>titlePage</key>
       <value>6. Recursos docentes</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Recursos docentes</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1775643965943-ysltao3uq</odePageId>
+      <odePageId>page-mnsk1t7h-5hf8cmgma</odePageId>
       <odeBlockId>block-1775644399402-dnbqtot8x</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -442,7 +670,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1775643965943-ysltao3uq</odePageId>
+          <odePageId>page-mnsk1t7h-5hf8cmgma</odePageId>
           <odeBlockId>block-1775644399402-dnbqtot8x</odeBlockId>
           <odeIdeviceId>idevice-1775644399399-22uoq9w6i</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -453,6 +681,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1775644399399-22uoq9w6i","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Herramientas digitales para el aula:</p>\n<p><a href=\"https://www.symbaloo.com/shared/AAAABsT9Ih4AA42ADs8xeg==\" title=\"\">https://www.symbaloo.com/shared/AAAABsT9Ih4AA42ADs8xeg==</a><a href=\"https://www.symbaloo.com/shared/AAAABsT9Ih4AA42ADs8xeg==\">https://www.symbaloo.com/shared/AAAABsT9Ih4AA42ADs8xeg==</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -460,7 +700,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1775643976460-8d2mppqc2</odePageId>
+  <odePageId>page-mnsk1t7i-i4eojpkyy</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>7. Uso responsable</pageName>
   <odeNavStructureOrder>7</odeNavStructureOrder>
@@ -469,12 +709,36 @@
       <key>titlePage</key>
       <value>7. Uso responsable</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Uso responsable</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1775643976460-8d2mppqc2</odePageId>
+      <odePageId>page-mnsk1t7i-i4eojpkyy</odePageId>
       <odeBlockId>block-1775644493720-8m0vdpc3t</odeBlockId>
-      <blockName>Texto</blockName>
+      <blockName></blockName>
       <iconName></iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
@@ -501,19 +765,31 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1775643976460-8d2mppqc2</odePageId>
+          <odePageId>page-mnsk1t7i-i4eojpkyy</odePageId>
           <odeBlockId>block-1775644493720-8m0vdpc3t</odeBlockId>
           <odeIdeviceId>idevice-1775644493717-ewzy9io8r</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <p>Es importante utilizar las herramientas digitales de forma responsable, respetando la privacidad y evitando compartir datos personales.</p>
 <p>Debemos hacer un uso adecuado de los dispositivos y respetar el trabajo de los demás.</p>
-<p><a href="https://www.canva.com/design/DAHDHUYGQlw/3Rvn8dACmhFWxUWatKlMPg/view?utm_content=DAHDHUYGQlw&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h5b5173f8d9">https://www.canva.com/design/DAHDHUYGQlw/3Rvn8dACmhFWxUWatKlMPg/view?utm_content=DAHDHUYGQlw&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h5b5173f8d9</a></p>
+<p><a href="https://www.canva.com/design/DAHDHUYGQlw/3Rvn8dACmhFWxUWatKlMPg/view?utm_content=DAHDHUYGQlw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5b5173f8d9">https://www.canva.com/design/DAHDHUYGQlw/3Rvn8dACmhFWxUWatKlMPg/view?utm_content=DAHDHUYGQlw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5b5173f8d9</a></p>
 <p></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775644493717-ewzy9io8r","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Es importante utilizar las herramientas digitales de forma responsable, respetando la privacidad y evitando compartir datos personales.</p>\n<p>Debemos hacer un uso adecuado de los dispositivos y respetar el trabajo de los demás.</p>\n<p><a href=\"https://www.canva.com/design/DAHDHUYGQlw/3Rvn8dACmhFWxUWatKlMPg/view?utm_content=DAHDHUYGQlw&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h5b5173f8d9\">https://www.canva.com/design/DAHDHUYGQlw/3Rvn8dACmhFWxUWatKlMPg/view?utm_content=DAHDHUYGQlw&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h5b5173f8d9</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775644493717-ewzy9io8r","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Es importante utilizar las herramientas digitales de forma responsable, respetando la privacidad y evitando compartir datos personales.</p>\n<p>Debemos hacer un uso adecuado de los dispositivos y respetar el trabajo de los demás.</p>\n<p><a href=\"https://www.canva.com/design/DAHDHUYGQlw/3Rvn8dACmhFWxUWatKlMPg/view?utm_content=DAHDHUYGQlw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5b5173f8d9\">https://www.canva.com/design/DAHDHUYGQlw/3Rvn8dACmhFWxUWatKlMPg/view?utm_content=DAHDHUYGQlw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5b5173f8d9</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -521,7 +797,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1775643990017-d2tew7td9</odePageId>
+  <odePageId>page-mnsk1t7i-3tenpai4i</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>8. Guía didáctica</pageName>
   <odeNavStructureOrder>8</odeNavStructureOrder>
@@ -530,10 +806,34 @@
       <key>titlePage</key>
       <value>8. Guía didáctica</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1775643990017-d2tew7td9</odePageId>
+      <odePageId>page-mnsk1t7i-3tenpai4i</odePageId>
       <odeBlockId>block-1775644660867-wp4w4iw3n</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -562,7 +862,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1775643990017-d2tew7td9</odePageId>
+          <odePageId>page-mnsk1t7i-3tenpai4i</odePageId>
           <odeBlockId>block-1775644660867-wp4w4iw3n</odeBlockId>
           <odeIdeviceId>idevice-1775644660864-re86g8a1p</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -574,6 +874,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1775644660864-re86g8a1p","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Las tareas del proyecto se relacionan con los criterios de evaluación del área de Conocimiento del Medio.</p>\n<p><a href=\"https://docs.google.com/document/d/1EQBgm-MAHL6uxf-yRDqEpP5LVNSi6_rLIQRirVUgADM/edit?usp=sharing\" title=\"\">https://docs.google.com/document/d/1EQBgm-MAHL6uxf-yRDqEpP5LVNSi6_rLIQRirVUgADM/edit?usp=sharing</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -581,7 +893,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1775644000371-f7woi9uyi</odePageId>
+  <odePageId>page-mnsk1t7j-ujauxgp3c</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>9. Evaluación</pageName>
   <odeNavStructureOrder>9</odeNavStructureOrder>
@@ -590,10 +902,34 @@
       <key>titlePage</key>
       <value>9. Evaluación</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>9. Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1775644000371-f7woi9uyi</odePageId>
+      <odePageId>page-mnsk1t7j-ujauxgp3c</odePageId>
       <odeBlockId>block-1775644783481-v25sxwttm</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -622,7 +958,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1775644000371-f7woi9uyi</odePageId>
+          <odePageId>page-mnsk1t7j-ujauxgp3c</odePageId>
           <odeBlockId>block-1775644783481-v25sxwttm</odeBlockId>
           <odeIdeviceId>idevice-1775644783479-1bxuzz8p1</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -640,6 +976,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1775644783479-1bxuzz8p1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La evaluación se realizará mediante diferentes instrumentos:</p>\n<ul>\n<li>Rúbrica del producto final</li>\n<li>Observación directa</li>\n<li>Diana de autoevaluación</li>\n</ul>\n<p><a href=\"https://docs.google.com/document/d/1-e2ePIX-wD4mBP9kEhGEtgNsxdUr-cF9q9VuHr9WN0Y/edit?usp=sharing\">https://docs.google.com/document/d/1-e2ePIX-wD4mBP9kEhGEtgNsxdUr-cF9q9VuHr9WN0Y/edit?usp=sharing</a></p>\n<p>La evaluación se basa en los criterios de evaluación establecidos en la normativa y se realiza mediante la triangulación de diferentes instrumentos.</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -647,7 +995,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1775644013420-55birqi2l</odePageId>
+  <odePageId>page-mnsk1t7j-l3nfrsusw</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>10. Atención a la diversidad</pageName>
   <odeNavStructureOrder>10</odeNavStructureOrder>
@@ -656,10 +1004,34 @@
       <key>titlePage</key>
       <value>10. Atención a la diversidad</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>10. Atención a la diversidad</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1775644013420-55birqi2l</odePageId>
+      <odePageId>page-mnsk1t7j-l3nfrsusw</odePageId>
       <odeBlockId>block-1775644898593-wcgl9uf3j</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -688,7 +1060,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1775644013420-55birqi2l</odePageId>
+          <odePageId>page-mnsk1t7j-l3nfrsusw</odePageId>
           <odeBlockId>block-1775644898593-wcgl9uf3j</odeBlockId>
           <odeIdeviceId>idevice-1775644898591-09rej659e</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -699,6 +1071,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1775644898591-09rej659e","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se plantean actividades variadas, uso de recursos visuales y trabajo cooperativo para atender a la diversidad del alumnado.</p>\n<p>Se ofrecerá apoyo individualizado cuando sea necesario.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -706,7 +1090,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1775644020202-hxoyiddkb</odePageId>
+  <odePageId>page-mnsk1t7k-9869gg83t</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>11. Créditos</pageName>
   <odeNavStructureOrder>11</odeNavStructureOrder>
@@ -715,10 +1099,34 @@
       <key>titlePage</key>
       <value>11. Créditos</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>11. Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1775644020202-hxoyiddkb</odePageId>
+      <odePageId>page-mnsk1t7k-9869gg83t</odePageId>
       <odeBlockId>block-1775644934488-vpswkdpil</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -747,16 +1155,30 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1775644020202-hxoyiddkb</odePageId>
+          <odePageId>page-mnsk1t7k-9869gg83t</odePageId>
           <odeBlockId>block-1775644934488-vpswkdpil</odeBlockId>
           <odeIdeviceId>idevice-1775644934486-phpr9kacu</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <p>Autora: Miriam Osuna Fernández<br />Descripción: Situación de aprendizaje sobre los animales<br />Licencia: Uso educativo<br />Recursos: Imágenes libres de uso (Pixabay, Canva)</p>
+<p>Descubrimos-el-mundo-de-los-animales---.elpx</p>
+<p></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775644934486-phpr9kacu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Autora: Miriam Osuna Fernández<br />Descripción: Situación de aprendizaje sobre los animales<br />Licencia: Uso educativo<br />Recursos: Imágenes libres de uso (Pixabay, Canva)</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775644934486-phpr9kacu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Autora: Miriam Osuna Fernández<br />Descripción: Situación de aprendizaje sobre los animales<br />Licencia: Uso educativo<br />Recursos: Imágenes libres de uso (Pixabay, Canva)</p>\n<p>Descubrimos-el-mundo-de-los-animales---.elpx</p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
