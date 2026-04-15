@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>2026041311200563FON3</value>
+    <value>20260415091755WN90JE</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>202604131120051B356W</value>
+    <value>20260415091755E2SYS3</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -60,7 +60,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1776067105248</value>
+    <value>1776238625617</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -93,7 +93,7 @@
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>page-mnwwhx1n-ppwp1hg7y</odePageId>
+  <odePageId>page-mnzqm71d-rxza6c10q</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Página nueva</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
@@ -131,7 +131,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnwwhx1n-w58h6nx25</odePageId>
+  <odePageId>page-mnzqm71e-uf4l2llzu</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>1. Portada  </pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
@@ -167,10 +167,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnwwhx1n-w58h6nx25</odePageId>
+      <odePageId>page-mnzqm71e-uf4l2llzu</odePageId>
       <odeBlockId>block-1775644062471-9526mhepz</odeBlockId>
       <blockName></blockName>
-      <iconName></iconName>
+      <iconName>start</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -196,14 +196,16 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnwwhx1n-w58h6nx25</odePageId>
+          <odePageId>page-mnzqm71e-uf4l2llzu</odePageId>
           <odeBlockId>block-1775644062471-9526mhepz</odeBlockId>
           <odeIdeviceId>idevice-1775644062465-eid9qa09g</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <p>Descubrimos el mundo de los animales<br />Situación de Aprendizaje – 1º Primaria<br />Miriam Osuna Fernández</p>
+<p><img src="{{context_path}}/content/resources/h/Gemini_Generated_Image_h2ia2oh2ia2oh2ia.png" width="664" height="362" alt="Imagen creada por IA" /></p>
+<p>Imagen creada por IA</p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775644062465-eid9qa09g","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Descubrimos el mundo de los animales<br />Situación de Aprendizaje – 1º Primaria<br />Miriam Osuna Fernández</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775644062465-eid9qa09g","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Descubrimos el mundo de los animales<br />Situación de Aprendizaje – 1º Primaria<br />Miriam Osuna Fernández</p>\n<p><img src=\"{{context_path}}/content/resources/h/Gemini_Generated_Image_h2ia2oh2ia2oh2ia.png\" width=\"664\" height=\"362\" alt=\"Imagen creada por IA\" /></p>\n<p>Imagen creada por IA</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -225,7 +227,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnwwhx1r-rgqfehsu8</odePageId>
+  <odePageId>page-mnzqm71h-zkzw90tn9</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>2. Presentación</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
@@ -261,10 +263,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnwwhx1r-rgqfehsu8</odePageId>
+      <odePageId>page-mnzqm71h-zkzw90tn9</odePageId>
       <odeBlockId>block-1775644189775-u0vd82uuf</odeBlockId>
       <blockName></blockName>
-      <iconName></iconName>
+      <iconName>ask</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -290,15 +292,17 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnwwhx1r-rgqfehsu8</odePageId>
+          <odePageId>page-mnzqm71h-zkzw90tn9</odePageId>
           <odeBlockId>block-1775644189775-u0vd82uuf</odeBlockId>
           <odeIdeviceId>idevice-1775644189772-2u3t23yu5</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <p style="text-align: justify;">Esta situación de aprendizaje tiene como objetivo que el alumnado conozca y clasifique diferentes animales, desarrollando habilidades de observación, clasificación y trabajo en grupo.</p>
 <p style="text-align: justify;">Está dirigida a alumnado de 1º de Educación Primaria dentro del área de Conocimiento del Medio. Se llevará a cabo a lo largo de varias sesiones en las que se combinarán actividades manipulativas y digitales.</p>
+<p style="text-align: justify;"><img src="{{context_path}}/content/resources/Gemini_Generated_Image_sibulusibulusibu.png" width="580" height="316" alt="Imagen creada por IA" /></p>
+<p style="text-align: justify;">Imagen creada por IA</p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775644189772-2u3t23yu5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Esta situación de aprendizaje tiene como objetivo que el alumnado conozca y clasifique diferentes animales, desarrollando habilidades de observación, clasificación y trabajo en grupo.</p>\n<p style=\"text-align: justify;\">Está dirigida a alumnado de 1º de Educación Primaria dentro del área de Conocimiento del Medio. Se llevará a cabo a lo largo de varias sesiones en las que se combinarán actividades manipulativas y digitales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775644189772-2u3t23yu5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Esta situación de aprendizaje tiene como objetivo que el alumnado conozca y clasifique diferentes animales, desarrollando habilidades de observación, clasificación y trabajo en grupo.</p>\n<p style=\"text-align: justify;\">Está dirigida a alumnado de 1º de Educación Primaria dentro del área de Conocimiento del Medio. Se llevará a cabo a lo largo de varias sesiones en las que se combinarán actividades manipulativas y digitales.</p>\n<p style=\"text-align: justify;\"><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_sibulusibulusibu.png\" width=\"580\" height=\"316\" alt=\"Imagen creada por IA\" /></p>\n<p style=\"text-align: justify;\">Imagen creada por IA</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -320,7 +324,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnwwhx1u-n0l9q0540</odePageId>
+  <odePageId>page-mnzqm71j-2pz0tx3hx</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>3. Producto final</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
@@ -356,10 +360,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnwwhx1u-n0l9q0540</odePageId>
+      <odePageId>page-mnzqm71j-2pz0tx3hx</odePageId>
       <odeBlockId>block-1775644226065-08ctu9cb8</odeBlockId>
       <blockName></blockName>
-      <iconName></iconName>
+      <iconName>video</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -385,15 +389,17 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnwwhx1u-n0l9q0540</odePageId>
+          <odePageId>page-mnzqm71j-2pz0tx3hx</odePageId>
           <odeBlockId>block-1775644226065-08ctu9cb8</odeBlockId>
           <odeIdeviceId>idevice-1775644226063-xfearz0eo</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <p style="text-align: justify;">El alumnado elaborará en pequeños grupos un mural o presentación digital en la que clasificarán diferentes animales según sus características.</p>
 <p style="text-align: justify;">Posteriormente, presentarán su trabajo al resto de la clase.</p>
+<p style="text-align: justify;"><img src="{{context_path}}/content/resources/h/Gemini_Generated_Image_87mkft87mkft87mk.png" width="740" height="403" alt="Imagen creada por IA" /></p>
+<p style="text-align: justify;">Imagen creada por IA</p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775644226063-xfearz0eo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">El alumnado elaborará en pequeños grupos un mural o presentación digital en la que clasificarán diferentes animales según sus características.</p>\n<p style=\"text-align: justify;\">Posteriormente, presentarán su trabajo al resto de la clase.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775644226063-xfearz0eo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">El alumnado elaborará en pequeños grupos un mural o presentación digital en la que clasificarán diferentes animales según sus características.</p>\n<p style=\"text-align: justify;\">Posteriormente, presentarán su trabajo al resto de la clase.</p>\n<p style=\"text-align: justify;\"><img src=\"{{context_path}}/content/resources/h/Gemini_Generated_Image_87mkft87mkft87mk.png\" width=\"740\" height=\"403\" alt=\"Imagen creada por IA\" /></p>\n<p style=\"text-align: justify;\">Imagen creada por IA</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -415,7 +421,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnwwhx1x-6yqoyci3r</odePageId>
+  <odePageId>page-mnzqm71k-dk3p4yjic</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>4. Actividades</pageName>
   <odeNavStructureOrder>4</odeNavStructureOrder>
@@ -451,10 +457,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnwwhx1x-6yqoyci3r</odePageId>
+      <odePageId>page-mnzqm71k-dk3p4yjic</odePageId>
       <odeBlockId>block-1775644259924-zgmq5ambm</odeBlockId>
       <blockName></blockName>
-      <iconName></iconName>
+      <iconName>competencies</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -480,15 +486,18 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnwwhx1x-6yqoyci3r</odePageId>
+          <odePageId>page-mnzqm71k-dk3p4yjic</odePageId>
           <odeBlockId>block-1775644259924-zgmq5ambm</odeBlockId>
           <odeIdeviceId>idevice-1775644259922-n7en8tklm</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <p style="text-align: justify;">A continuación se presenta la organización temporal de las actividades del proyecto, donde se recogen las diferentes sesiones, tareas, agrupamientos y recursos utilizados.</p>
 <p><img src="{{context_path}}/content/resources/LINEA TEMPORAL MIRIAM OSUNA.png" width="875" height="492" alt="" /></p>
+<p><img src="{{context_path}}/content/resources/h/Gemini_Generated_Image_xa14luxa14luxa14.png" width="765" height="417" alt="Imagen creada por IA" /></p>
+<p>Imagen creada por IA</p>
+<p><br /></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775644259922-n7en8tklm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">A continuación se presenta la organización temporal de las actividades del proyecto, donde se recogen las diferentes sesiones, tareas, agrupamientos y recursos utilizados.</p>\n<p><img src=\"{{context_path}}/content/resources/LINEA TEMPORAL MIRIAM OSUNA.png\" width=\"875\" height=\"492\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775644259922-n7en8tklm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">A continuación se presenta la organización temporal de las actividades del proyecto, donde se recogen las diferentes sesiones, tareas, agrupamientos y recursos utilizados.</p>\n<p><img src=\"{{context_path}}/content/resources/LINEA TEMPORAL MIRIAM OSUNA.png\" width=\"875\" height=\"492\" alt=\"\" /></p>\n<p><img src=\"{{context_path}}/content/resources/h/Gemini_Generated_Image_xa14luxa14luxa14.png\" width=\"765\" height=\"417\" alt=\"Imagen creada por IA\" /></p>\n<p>Imagen creada por IA</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -510,7 +519,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnwwhx1z-0cs5d9ak3</odePageId>
+  <odePageId>page-mnzqm71m-ojtt6vupc</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>5. Recursos alumnado</pageName>
   <odeNavStructureOrder>5</odeNavStructureOrder>
@@ -546,10 +555,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnwwhx1z-0cs5d9ak3</odePageId>
+      <odePageId>page-mnzqm71m-ojtt6vupc</odePageId>
       <odeBlockId>block-1775644300264-4qapria5d</odeBlockId>
       <blockName></blockName>
-      <iconName></iconName>
+      <iconName>calculate</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -575,7 +584,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnwwhx1z-0cs5d9ak3</odePageId>
+          <odePageId>page-mnzqm71m-ojtt6vupc</odePageId>
           <odeBlockId>block-1775644300264-4qapria5d</odeBlockId>
           <odeIdeviceId>idevice-1775644300262-1qzqj4vnv</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -605,7 +614,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnwwhx1z-1xxhyrgph</odePageId>
+  <odePageId>page-mnzqm71m-q2phfioyt</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>6. Recursos docentes</pageName>
   <odeNavStructureOrder>6</odeNavStructureOrder>
@@ -641,10 +650,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnwwhx1z-1xxhyrgph</odePageId>
+      <odePageId>page-mnzqm71m-q2phfioyt</odePageId>
       <odeBlockId>block-1775644399402-dnbqtot8x</odeBlockId>
       <blockName></blockName>
-      <iconName></iconName>
+      <iconName>guide</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -670,7 +679,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnwwhx1z-1xxhyrgph</odePageId>
+          <odePageId>page-mnzqm71m-q2phfioyt</odePageId>
           <odeBlockId>block-1775644399402-dnbqtot8x</odeBlockId>
           <odeIdeviceId>idevice-1775644399399-22uoq9w6i</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -700,7 +709,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnwwhx21-ef6hz5jxd</odePageId>
+  <odePageId>page-mnzqm71n-ogcvml9nf</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>7. Uso responsable</pageName>
   <odeNavStructureOrder>7</odeNavStructureOrder>
@@ -736,10 +745,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnwwhx21-ef6hz5jxd</odePageId>
+      <odePageId>page-mnzqm71n-ogcvml9nf</odePageId>
       <odeBlockId>block-1775644493720-8m0vdpc3t</odeBlockId>
       <blockName></blockName>
-      <iconName></iconName>
+      <iconName>interactive</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -765,17 +774,19 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnwwhx21-ef6hz5jxd</odePageId>
+          <odePageId>page-mnzqm71n-ogcvml9nf</odePageId>
           <odeBlockId>block-1775644493720-8m0vdpc3t</odeBlockId>
           <odeIdeviceId>idevice-1775644493717-ewzy9io8r</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p>Es importante utilizar las herramientas digitales de forma responsable, respetando la privacidad y evitando compartir datos personales.</p>
+    <p><img src="{{context_path}}/content/resources/Gemini_Generated_Image_fsr2fjfsr2fjfsr2.png" width="607" height="331" alt="Imagen creada por IA" /></p>
+<p>Imagen creada por IA</p>
+<p>Es importante utilizar las herramientas digitales de forma responsable, respetando la privacidad y evitando compartir datos personales.</p>
 <p>Debemos hacer un uso adecuado de los dispositivos y respetar el trabajo de los demás.</p>
-<p><a href="https://www.canva.com/design/DAHDHUYGQlw/3Rvn8dACmhFWxUWatKlMPg/view?utm_content=DAHDHUYGQlw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5b5173f8d9">https://www.canva.com/design/DAHDHUYGQlw/3Rvn8dACmhFWxUWatKlMPg/view?utm_content=DAHDHUYGQlw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5b5173f8d9</a></p>
-<p></p>
+<p><a href="https://www.canva.com/design/DAHDHUYGQlw/3Rvn8dACmhFWxUWatKlMPg/view?utm_content=DAHDHUYGQlw&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h5b5173f8d9">https://www.canva.com/design/DAHDHUYGQlw/3Rvn8dACmhFWxUWatKlMPg/view?utm_content=DAHDHUYGQlw&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h5b5173f8d9</a></p>
+<p><br /></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775644493717-ewzy9io8r","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Es importante utilizar las herramientas digitales de forma responsable, respetando la privacidad y evitando compartir datos personales.</p>\n<p>Debemos hacer un uso adecuado de los dispositivos y respetar el trabajo de los demás.</p>\n<p><a href=\"https://www.canva.com/design/DAHDHUYGQlw/3Rvn8dACmhFWxUWatKlMPg/view?utm_content=DAHDHUYGQlw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5b5173f8d9\">https://www.canva.com/design/DAHDHUYGQlw/3Rvn8dACmhFWxUWatKlMPg/view?utm_content=DAHDHUYGQlw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5b5173f8d9</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775644493717-ewzy9io8r","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_fsr2fjfsr2fjfsr2.png\" width=\"607\" height=\"331\" alt=\"Imagen creada por IA\" /></p>\n<p>Imagen creada por IA</p>\n<p>Es importante utilizar las herramientas digitales de forma responsable, respetando la privacidad y evitando compartir datos personales.</p>\n<p>Debemos hacer un uso adecuado de los dispositivos y respetar el trabajo de los demás.</p>\n<p><a href=\"https://www.canva.com/design/DAHDHUYGQlw/3Rvn8dACmhFWxUWatKlMPg/view?utm_content=DAHDHUYGQlw&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h5b5173f8d9\">https://www.canva.com/design/DAHDHUYGQlw/3Rvn8dACmhFWxUWatKlMPg/view?utm_content=DAHDHUYGQlw&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h5b5173f8d9</a></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -797,7 +808,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnwwhx22-a9w99vra0</odePageId>
+  <odePageId>page-mnzqm71o-eq1ibg9gl</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>8. Guía didáctica</pageName>
   <odeNavStructureOrder>8</odeNavStructureOrder>
@@ -833,10 +844,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnwwhx22-a9w99vra0</odePageId>
+      <odePageId>page-mnzqm71o-eq1ibg9gl</odePageId>
       <odeBlockId>block-1775644660867-wp4w4iw3n</odeBlockId>
       <blockName></blockName>
-      <iconName></iconName>
+      <iconName>passport</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -862,7 +873,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnwwhx22-a9w99vra0</odePageId>
+          <odePageId>page-mnzqm71o-eq1ibg9gl</odePageId>
           <odeBlockId>block-1775644660867-wp4w4iw3n</odeBlockId>
           <odeIdeviceId>idevice-1775644660864-re86g8a1p</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -893,7 +904,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnwwhx24-quxzhkk0k</odePageId>
+  <odePageId>page-mnzqm71p-lkli1ylq3</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>9. Evaluación</pageName>
   <odeNavStructureOrder>9</odeNavStructureOrder>
@@ -929,10 +940,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnwwhx24-quxzhkk0k</odePageId>
+      <odePageId>page-mnzqm71p-lkli1ylq3</odePageId>
       <odeBlockId>block-1775644783481-v25sxwttm</odeBlockId>
       <blockName></blockName>
-      <iconName></iconName>
+      <iconName>activity</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -958,7 +969,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnwwhx24-quxzhkk0k</odePageId>
+          <odePageId>page-mnzqm71p-lkli1ylq3</odePageId>
           <odeBlockId>block-1775644783481-v25sxwttm</odeBlockId>
           <odeIdeviceId>idevice-1775644783479-1bxuzz8p1</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -995,7 +1006,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnwwhx25-7hk4657i2</odePageId>
+  <odePageId>page-mnzqm71p-zv65yc198</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>10. Atención a la diversidad</pageName>
   <odeNavStructureOrder>10</odeNavStructureOrder>
@@ -1031,10 +1042,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnwwhx25-7hk4657i2</odePageId>
+      <odePageId>page-mnzqm71p-zv65yc198</odePageId>
       <odeBlockId>block-1775644898593-wcgl9uf3j</odeBlockId>
       <blockName></blockName>
-      <iconName></iconName>
+      <iconName>agreement</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -1060,7 +1071,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnwwhx25-7hk4657i2</odePageId>
+          <odePageId>page-mnzqm71p-zv65yc198</odePageId>
           <odeBlockId>block-1775644898593-wcgl9uf3j</odeBlockId>
           <odeIdeviceId>idevice-1775644898591-09rej659e</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1090,7 +1101,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnwwhx26-5zuccdri3</odePageId>
+  <odePageId>page-mnzqm71q-2ve8sqm46</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>11. Créditos</pageName>
   <odeNavStructureOrder>11</odeNavStructureOrder>
@@ -1126,10 +1137,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnwwhx26-5zuccdri3</odePageId>
+      <odePageId>page-mnzqm71q-2ve8sqm46</odePageId>
       <odeBlockId>block-1775644934488-vpswkdpil</odeBlockId>
       <blockName></blockName>
-      <iconName></iconName>
+      <iconName>objectives</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -1155,15 +1166,16 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnwwhx26-5zuccdri3</odePageId>
+          <odePageId>page-mnzqm71q-2ve8sqm46</odePageId>
           <odeBlockId>block-1775644934488-vpswkdpil</odeBlockId>
           <odeIdeviceId>idevice-1775644934486-phpr9kacu</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <p>Autora: Miriam Osuna Fernández<br />Descripción: Situación de aprendizaje sobre los animales<br />Licencia: Uso educativo<br />Recursos: Imágenes libres de uso (Pixabay, Canva)</p>
-<p>Descarga del archivo editable: <a href="https://github.com/mosufer293-cyber/descubrimos-animales.git" title="">https://github.com/mosufer293-cyber/descubrimos-animales.git</a></p>
+<p>Descarga del archivo editable: <strong><a href="descubrimos-el-mundo-de-los-animales.elpx" title="">descubrimos-el-mundo-de-los-animales.elpx</a></strong></p>
+<p><strong title=""><a href="https://github.com/mosufer293-cyber/descubrimos-animales/raw/main/descubrimos-el-mundo-de-los-animales.elpx">https://github.com/mosufer293-cyber/descubrimos-animales/raw/main/descubrimos-el-mundo-de-los-animales.elpx</a></strong></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775644934486-phpr9kacu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Autora: Miriam Osuna Fernández<br />Descripción: Situación de aprendizaje sobre los animales<br />Licencia: Uso educativo<br />Recursos: Imágenes libres de uso (Pixabay, Canva)</p>\n<p>Descarga del archivo editable: <a href=\"https://github.com/mosufer293-cyber/descubrimos-animales.git\" title=\"\">https://github.com/mosufer293-cyber/descubrimos-animales.git</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775644934486-phpr9kacu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Autora: Miriam Osuna Fernández<br />Descripción: Situación de aprendizaje sobre los animales<br />Licencia: Uso educativo<br />Recursos: Imágenes libres de uso (Pixabay, Canva)</p>\n<p>Descarga del archivo editable: <strong><a href=\"descubrimos-el-mundo-de-los-animales.elpx\" title=\"\">descubrimos-el-mundo-de-los-animales.elpx</a></strong></p>\n<p><strong title=\"\"><a href=\"https://github.com/mosufer293-cyber/descubrimos-animales/raw/main/descubrimos-el-mundo-de-los-animales.elpx\">https://github.com/mosufer293-cyber/descubrimos-animales/raw/main/descubrimos-el-mundo-de-los-animales.elpx</a></strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
