@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260417102548MOFCMI</value>
+    <value>20260417103747YOLMFD</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260417102548GTIN1B</value>
+    <value>20260417103747LYGLLE</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -60,7 +60,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1776254918307</value>
+    <value>1776418480066</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -93,7 +93,7 @@
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>page-mo00bei5-y5wqe8olg</odePageId>
+  <odePageId>page-mo2pp3ey-e5l2fh8ee</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Página nueva</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
@@ -131,7 +131,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo00bei6-lnkbe79rj</odePageId>
+  <odePageId>page-mo2pp3ez-x6vhxao6a</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>1. Portada  </pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
@@ -167,7 +167,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo00bei6-lnkbe79rj</odePageId>
+      <odePageId>page-mo2pp3ez-x6vhxao6a</odePageId>
       <odeBlockId>block-1775644062471-9526mhepz</odeBlockId>
       <blockName></blockName>
       <iconName>start</iconName>
@@ -196,7 +196,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo00bei6-lnkbe79rj</odePageId>
+          <odePageId>page-mo2pp3ez-x6vhxao6a</odePageId>
           <odeBlockId>block-1775644062471-9526mhepz</odeBlockId>
           <odeIdeviceId>idevice-1775644062465-eid9qa09g</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -227,7 +227,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo00bei8-hxxfeyes1</odePageId>
+  <odePageId>page-mo2pp3f3-5deq1467c</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>2. Presentación</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
@@ -263,7 +263,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo00bei8-hxxfeyes1</odePageId>
+      <odePageId>page-mo2pp3f3-5deq1467c</odePageId>
       <odeBlockId>block-1775644189775-u0vd82uuf</odeBlockId>
       <blockName></blockName>
       <iconName>ask</iconName>
@@ -292,7 +292,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo00bei8-hxxfeyes1</odePageId>
+          <odePageId>page-mo2pp3f3-5deq1467c</odePageId>
           <odeBlockId>block-1775644189775-u0vd82uuf</odeBlockId>
           <odeIdeviceId>idevice-1775644189772-2u3t23yu5</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -324,7 +324,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo00bei9-5mc7pp3pa</odePageId>
+  <odePageId>page-mo2pp3f5-fhzh6solg</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>3. Producto final</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
@@ -360,7 +360,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo00bei9-5mc7pp3pa</odePageId>
+      <odePageId>page-mo2pp3f5-fhzh6solg</odePageId>
       <odeBlockId>block-1775644226065-08ctu9cb8</odeBlockId>
       <blockName></blockName>
       <iconName>video</iconName>
@@ -389,7 +389,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo00bei9-5mc7pp3pa</odePageId>
+          <odePageId>page-mo2pp3f5-fhzh6solg</odePageId>
           <odeBlockId>block-1775644226065-08ctu9cb8</odeBlockId>
           <odeIdeviceId>idevice-1775644226063-xfearz0eo</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -421,7 +421,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo00beic-jc27mkgm4</odePageId>
+  <odePageId>page-mo2pp3f6-wozc3p524</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>4. Actividades</pageName>
   <odeNavStructureOrder>4</odeNavStructureOrder>
@@ -457,7 +457,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo00beic-jc27mkgm4</odePageId>
+      <odePageId>page-mo2pp3f6-wozc3p524</odePageId>
       <odeBlockId>block-1775644259924-zgmq5ambm</odeBlockId>
       <blockName></blockName>
       <iconName>competencies</iconName>
@@ -486,7 +486,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo00beic-jc27mkgm4</odePageId>
+          <odePageId>page-mo2pp3f6-wozc3p524</odePageId>
           <odeBlockId>block-1775644259924-zgmq5ambm</odeBlockId>
           <odeIdeviceId>idevice-1775644259922-n7en8tklm</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -519,7 +519,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo00beie-s6zbcuozy</odePageId>
+  <odePageId>page-mo2pp3fb-ggakrig6y</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>5. Recursos alumnado</pageName>
   <odeNavStructureOrder>5</odeNavStructureOrder>
@@ -555,7 +555,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo00beie-s6zbcuozy</odePageId>
+      <odePageId>page-mo2pp3fb-ggakrig6y</odePageId>
       <odeBlockId>block-1775644300264-4qapria5d</odeBlockId>
       <blockName></blockName>
       <iconName>calculate</iconName>
@@ -584,7 +584,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo00beie-s6zbcuozy</odePageId>
+          <odePageId>page-mo2pp3fb-ggakrig6y</odePageId>
           <odeBlockId>block-1775644300264-4qapria5d</odeBlockId>
           <odeIdeviceId>idevice-1775644300262-1qzqj4vnv</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -614,7 +614,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo00beif-nmxsdddvm</odePageId>
+  <odePageId>page-mo2pp3fc-rwkyyvw11</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>6. Recursos docentes</pageName>
   <odeNavStructureOrder>6</odeNavStructureOrder>
@@ -650,7 +650,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo00beif-nmxsdddvm</odePageId>
+      <odePageId>page-mo2pp3fc-rwkyyvw11</odePageId>
       <odeBlockId>block-1775644399402-dnbqtot8x</odeBlockId>
       <blockName></blockName>
       <iconName>guide</iconName>
@@ -679,7 +679,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo00beif-nmxsdddvm</odePageId>
+          <odePageId>page-mo2pp3fc-rwkyyvw11</odePageId>
           <odeBlockId>block-1775644399402-dnbqtot8x</odeBlockId>
           <odeIdeviceId>idevice-1775644399399-22uoq9w6i</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -709,7 +709,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo00beif-9evm0prxo</odePageId>
+  <odePageId>page-mo2pp3fd-q0du0qcc6</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>7. Uso responsable</pageName>
   <odeNavStructureOrder>7</odeNavStructureOrder>
@@ -745,7 +745,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo00beif-9evm0prxo</odePageId>
+      <odePageId>page-mo2pp3fd-q0du0qcc6</odePageId>
       <odeBlockId>block-1775644493720-8m0vdpc3t</odeBlockId>
       <blockName></blockName>
       <iconName>interactive</iconName>
@@ -774,7 +774,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo00beif-9evm0prxo</odePageId>
+          <odePageId>page-mo2pp3fd-q0du0qcc6</odePageId>
           <odeBlockId>block-1775644493720-8m0vdpc3t</odeBlockId>
           <odeIdeviceId>idevice-1775644493717-ewzy9io8r</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -808,7 +808,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo00beig-ujm76otwt</odePageId>
+  <odePageId>page-mo2pp3fe-ct4fcdqzx</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>8. Guía didáctica</pageName>
   <odeNavStructureOrder>8</odeNavStructureOrder>
@@ -844,7 +844,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo00beig-ujm76otwt</odePageId>
+      <odePageId>page-mo2pp3fe-ct4fcdqzx</odePageId>
       <odeBlockId>block-1775644660867-wp4w4iw3n</odeBlockId>
       <blockName></blockName>
       <iconName>passport</iconName>
@@ -873,7 +873,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo00beig-ujm76otwt</odePageId>
+          <odePageId>page-mo2pp3fe-ct4fcdqzx</odePageId>
           <odeBlockId>block-1775644660867-wp4w4iw3n</odeBlockId>
           <odeIdeviceId>idevice-1775644660864-re86g8a1p</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -904,7 +904,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo00beig-gdc37zz29</odePageId>
+  <odePageId>page-mo2pp3ff-o60ib2bn6</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>9. Evaluación</pageName>
   <odeNavStructureOrder>9</odeNavStructureOrder>
@@ -940,7 +940,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo00beig-gdc37zz29</odePageId>
+      <odePageId>page-mo2pp3ff-o60ib2bn6</odePageId>
       <odeBlockId>block-1775644783481-v25sxwttm</odeBlockId>
       <blockName></blockName>
       <iconName>activity</iconName>
@@ -969,7 +969,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo00beig-gdc37zz29</odePageId>
+          <odePageId>page-mo2pp3ff-o60ib2bn6</odePageId>
           <odeBlockId>block-1775644783481-v25sxwttm</odeBlockId>
           <odeIdeviceId>idevice-1775644783479-1bxuzz8p1</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1006,7 +1006,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo00beih-uruzc9yb0</odePageId>
+  <odePageId>page-mo2pp3fg-shw3o8qap</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>10. Atención a la diversidad</pageName>
   <odeNavStructureOrder>10</odeNavStructureOrder>
@@ -1042,7 +1042,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo00beih-uruzc9yb0</odePageId>
+      <odePageId>page-mo2pp3fg-shw3o8qap</odePageId>
       <odeBlockId>block-1775644898593-wcgl9uf3j</odeBlockId>
       <blockName></blockName>
       <iconName>agreement</iconName>
@@ -1071,7 +1071,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo00beih-uruzc9yb0</odePageId>
+          <odePageId>page-mo2pp3fg-shw3o8qap</odePageId>
           <odeBlockId>block-1775644898593-wcgl9uf3j</odeBlockId>
           <odeIdeviceId>idevice-1775644898591-09rej659e</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1101,7 +1101,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo00beih-3lq69zl6i</odePageId>
+  <odePageId>page-mo2pp3fi-9ej4pw1rj</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>11. Créditos</pageName>
   <odeNavStructureOrder>11</odeNavStructureOrder>
@@ -1137,7 +1137,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo00beih-3lq69zl6i</odePageId>
+      <odePageId>page-mo2pp3fi-9ej4pw1rj</odePageId>
       <odeBlockId>block-1775644934488-vpswkdpil</odeBlockId>
       <blockName></blockName>
       <iconName>objectives</iconName>
@@ -1166,15 +1166,15 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo00beih-3lq69zl6i</odePageId>
+          <odePageId>page-mo2pp3fi-9ej4pw1rj</odePageId>
           <odeBlockId>block-1775644934488-vpswkdpil</odeBlockId>
           <odeIdeviceId>idevice-1775644934486-phpr9kacu</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <p>Autora: Miriam Osuna Fernández<br />Descripción: Situación de aprendizaje sobre los animales<br />Licencia: Uso educativo<br />Recursos: Imágenes libres de uso (Pixabay, Canva)</p>
-<p>Descarga del archivo editable: <a href="https://github.com/mosufer293-cyber/descubrimos-animales/raw/main/descubrimos-el-mundo-de-los-animalesFINALLL.elpx" title="">Pinche aquí</a><strong></strong></p>
+<p>Descarga del archivo editable: <a href="https://github.com/mosufer293-cyber/descubrimos-animales/raw/main/descubrimos-el-mundo-de-los-animalesFINAL.elpx" title="">PINCHE AQUÍ</a><strong></strong></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775644934486-phpr9kacu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Autora: Miriam Osuna Fernández<br />Descripción: Situación de aprendizaje sobre los animales<br />Licencia: Uso educativo<br />Recursos: Imágenes libres de uso (Pixabay, Canva)</p>\n<p>Descarga del archivo editable: <a href=\"https://github.com/mosufer293-cyber/descubrimos-animales/raw/main/descubrimos-el-mundo-de-los-animalesFINALLL.elpx\" title=\"\">Pinche aquí</a><strong></strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775644934486-phpr9kacu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Autora: Miriam Osuna Fernández<br />Descripción: Situación de aprendizaje sobre los animales<br />Licencia: Uso educativo<br />Recursos: Imágenes libres de uso (Pixabay, Canva)</p>\n<p>Descarga del archivo editable: <a href=\"https://github.com/mosufer293-cyber/descubrimos-animales/raw/main/descubrimos-el-mundo-de-los-animalesFINAL.elpx\" title=\"\">PINCHE AQUÍ</a><strong></strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
