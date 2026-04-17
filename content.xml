@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260417103747YOLMFD</value>
+    <value>202604171050482X9NTJ</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260417103747LYGLLE</value>
+    <value>20260417105048MPXIM5</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -1172,9 +1172,9 @@
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <p>Autora: Miriam Osuna Fernández<br />Descripción: Situación de aprendizaje sobre los animales<br />Licencia: Uso educativo<br />Recursos: Imágenes libres de uso (Pixabay, Canva)</p>
-<p>Descarga del archivo editable: <a href="https://github.com/mosufer293-cyber/descubrimos-animales/raw/main/descubrimos-el-mundo-de-los-animalesFINAL.elpx" title="">PINCHE AQUÍ</a><strong></strong></p>
+<p>Descarga del archivo editable: <a href="https://github.com/mosufer293-cyber/descubrimos-animales/raw/main/descubrimos-el-mundo-de-los-animalesFINALFINAL.elpx" title="">PINCHE AQUÍ</a><a href="https://github.com/mosufer293-cyber/descubrimos-animales/raw/main/descubrimos-el-mundo-de-los-animalesFINAL.elpx" title=""></a><strong></strong></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775644934486-phpr9kacu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Autora: Miriam Osuna Fernández<br />Descripción: Situación de aprendizaje sobre los animales<br />Licencia: Uso educativo<br />Recursos: Imágenes libres de uso (Pixabay, Canva)</p>\n<p>Descarga del archivo editable: <a href=\"https://github.com/mosufer293-cyber/descubrimos-animales/raw/main/descubrimos-el-mundo-de-los-animalesFINAL.elpx\" title=\"\">PINCHE AQUÍ</a><strong></strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775644934486-phpr9kacu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Autora: Miriam Osuna Fernández<br />Descripción: Situación de aprendizaje sobre los animales<br />Licencia: Uso educativo<br />Recursos: Imágenes libres de uso (Pixabay, Canva)</p>\n<p>Descarga del archivo editable: <a href=\"https://github.com/mosufer293-cyber/descubrimos-animales/raw/main/descubrimos-el-mundo-de-los-animalesFINALFINAL.elpx\" title=\"\">PINCHE AQUÍ</a><a href=\"https://github.com/mosufer293-cyber/descubrimos-animales/raw/main/descubrimos-el-mundo-de-los-animalesFINAL.elpx\" title=\"\"></a><strong></strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
